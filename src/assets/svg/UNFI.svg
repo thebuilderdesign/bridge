@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>UNFI</title>
+    <g id="WING" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-42.000000, -274.000000)">
+            <g id="unifi-protocol-dao" transform="translate(42.000000, 274.000000)">
+                <g id="SVGID_1_-link" fill="#00FF8C">
+                    <path d="M16,0 C24.8352,0 32,7.1648 32,16 C32,24.8352 24.8352,32 16,32 C7.1648,32 0,24.8352 0,16 C0,7.1648 7.1648,0 16,0 L16,0 Z" id="SVGID_1_"></path>
+                </g>
+                <g id="编组" transform="translate(8.640000, 10.944000)" fill-rule="nonzero" stroke="#000000" stroke-width="1.6">
+                    <polygon id="SVGID_4_" points="8.7168 0 3.5744 0.0384 0 3.712 0 8.864 3.6672 12.448 8.736 12.448 12.416 8.7488 12.416 3.616 8.7168 0"></polygon>
+                </g>
+                <g id="编组" transform="translate(12.032000, 7.424000)">
+                    <g id="SVGID_7_-link" transform="translate(1.600000, 1.600000)"></g>
+                    <g id="SVGID_8_-link" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="1.6">
+                        <polygon id="SVGID_8_" points="8.7616 0 3.5936 0.0384 0 3.7312 0 8.9088 3.6864 12.512 8.7808 12.512 12.48 8.7936 12.48 3.6352 8.7616 0"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

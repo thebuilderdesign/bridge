@@ -1,0 +1,48 @@
+@import '~element-ui/packages/theme-chalk/src/index.scss';
+
+.v-modal {
+  backdrop-filter: blur(10px);
+  opacity: 1;
+  background: rgba(#000000, 0.5);
+}
+
+@include b(popper) {
+  .popper__arrow::after {
+    border-top-color: #182233 !important;
+    border-bottom-color: #182233 !important;
+  }
+}
+
+@include b(table) {
+  background-color: transparent;
+
+  tr {
+    background-color: transparent;
+  }
+
+  th {
+    color: #ffffff;
+    background-color: transparent;
+    opacity: 0.6;
+    font-weight: 400;
+    font-size: 14px;
+  }
+
+  .cell {
+    color: #ffffff;
+    opacity: 0.8;
+    font-weight: 400;
+    font-size: 14px;
+    word-break: normal;
+  }
+
+  @include e(column-filter-trigger) {
+    line-height: normal;
+  }
+
+  @include m(enable-row-hover) {
+    .el-table__body tr:hover > td {
+      background-color: rgba(#000000, 0.15);
+    }
+  }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>neo</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-89.000000, -161.000000)">
+            <g id="neo" transform="translate(89.000000, 161.000000)">
+                <g id="编组" fill="#FFFFFF">
+                    <circle id="椭圆形" cx="10" cy="10" r="10"></circle>
+                </g>
+                <g id="Group-3" transform="translate(5.000000, 4.166667)">
+                    <polygon id="Fill-1" fill="#00E599" points="5.28125982 6.04229607e-06 -9.06344411e-06 1.9380423 -9.06344411e-06 9.33293656 4.80122961 11.0561994 4.80122961 3.60000604 9.99243807 1.68731722"></polygon>
+                    <polygon id="Fill-2" fill="#00AF92" points="5.19183082 3.81268882 5.19183082 7.85797583 9.99427795 9.57824773 9.99213293 2.03776435"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>binance</title>
+    <defs>
+        <circle id="path-1" cx="12" cy="12" r="12"></circle>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-184.000000, -100.000000)">
+            <g id="binance" transform="translate(184.000000, 100.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <path d="M9.23201422,10.8635506 L12,8.09556477 L14.7792378,10.8635506 L16.3770182,9.26577014 L12,4.8775 L7.62298184,9.25451816 L9.23201422,10.8635506 Z M4.8775,12 L6.48653239,10.3909676 L8.09556477,12 L6.48653239,13.6090324 L4.8775,12 Z M9.23201422,13.1364494 L12,15.9044352 L14.7792378,13.1364494 L16.3882701,14.7454818 L12.011252,19.1225 L7.63423381,14.7454818 L9.23201422,13.1364494 Z M15.9044352,12 L17.5134676,10.3909676 L19.1225,12 L17.5134676,13.6090324 L15.9044352,12 Z" id="形状" fill="#F3BA2F" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                <polygon id="路径" fill="#F3BA2F" fill-rule="nonzero" mask="url(#mask-2)" points="13.6315363 12 12 10.3684637 10.7960387 11.572425 10.661015 11.7074487 10.3684637 12 12 13.6315363"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

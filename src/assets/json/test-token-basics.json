@@ -1,0 +1,378 @@
+{
+  "TotalCount": 15,
+  "TokenBasics": [
+    {
+      "Name": "BAC",
+      "Precision": 18,
+      "Price": "0.28178831",
+      "Ind": 1,
+      "Time": 1616371229,
+      "Property": 1,
+      "PriceMarkets": null,
+      "Tokens": [
+        {
+          "Hash": "62d475e25f7492027eb1888599f96f195b0d6065",
+          "ChainId": 79,
+          "Name": "BAC",
+          "Property": 1,
+          "TokenBasicName": "BAC",
+          "TokenBasic": null,
+          "TokenMaps": null
+        },
+        {
+          "Hash": "6678c7f809c699c9b1f7da6f263b5cf407b8eb1d",
+          "ChainId": 2,
+          "Name": "BAC",
+          "Property": 1,
+          "TokenBasicName": "BAC",
+          "TokenBasic": null,
+          "TokenMaps": null
+        }
+      ]
+    },
+    {
+      "Name": "BASv2",
+      "Precision": 18,
+      "Price": "39.59208665",
+      "Ind": 1,
+      "Time": 1616371229,
+      "Property": 1,
+      "PriceMarkets": null,
+      "Tokens": [
+        {
+          "Hash": "4a2f867152e5370fb026b768cac4647750c5ae02",
+          "ChainId": 79,
+          "Name": "BASv2",
+          "Property": 1,
+          "TokenBasicName": "BASv2",
+          "TokenBasic": null,
+          "TokenMaps": null
+        },
+        {
+          "Hash": "61adf6f0d936c8602893228bbb83d1ac08eb60fb",
+          "ChainId": 2,
+          "Name": "BASv2",
+          "Property": 1,
+          "TokenBasicName": "BASv2",
+          "TokenBasic": null,
+          "TokenMaps": null
+        }
+      ]
+    },
+    {
+      "Name": "CWS",
+      "Precision": 18,
+      "Price": "38.77216018",
+      "Ind": 1,
+      "Time": 1616371229,
+      "Property": 1,
+      "PriceMarkets": null,
+      "Tokens": [
+        {
+          "Hash": "4ca0acab9f6b9c084d216f40963c070eef95033b",
+          "ChainId": 79,
+          "Name": "CWS",
+          "Property": 1,
+          "TokenBasicName": "CWS",
+          "TokenBasic": null,
+          "TokenMaps": null
+        },
+        {
+          "Hash": "7f8f2a4ae259b3655539a58636f35dad0a1d9989",
+          "ChainId": 2,
+          "Name": "CWS",
+          "Property": 1,
+          "TokenBasicName": "CWS",
+          "TokenBasic": null,
+          "TokenMaps": null
+        }
+      ]
+    },
+    {
+      "Name": "DAI",
+      "Precision": 18,
+      "Price": "1.00042833",
+      "Ind": 1,
+      "Time": 1616371229,
+      "Property": 1,
+      "PriceMarkets": null,
+      "Tokens": [
+        {
+          "Hash": "6965731afed27add95be4b0d88ac895ea3eac7ef",
+          "ChainId": 7,
+          "Name": "pDAI",
+          "Property": 1,
+          "TokenBasicName": "DAI",
+          "TokenBasic": null,
+          "TokenMaps": null
+        },
+        {
+          "Hash": "8cad2301f7348dfc10c65778197028f432d51e76",
+          "ChainId": 2,
+          "Name": "DAI",
+          "Property": 1,
+          "TokenBasicName": "DAI",
+          "TokenBasic": null,
+          "TokenMaps": null
+        },
+        {
+          "Hash": "e5750f0ee3dfd2e6a3aca35ddc0e904188fd571e",
+          "ChainId": 79,
+          "Name": "DAI",
+          "Property": 1,
+          "TokenBasicName": "DAI",
+          "TokenBasic": null,
+          "TokenMaps": null
+        }
+      ]
+    },
+    {
+      "Name": "ETH",
+      "Precision": 18,
+      "Price": "1787.301089",
+      "Ind": 1,
+      "Time": 1616371229,
+      "Property": 1,
+      "PriceMarkets": null,
+      "Tokens": [
+        {
+          "Hash": "0000000000000000000000000000000000000000",
+          "ChainId": 2,
+          "Name": "ETH",
+          "Property": 1,
+          "TokenBasicName": "ETH",
+          "TokenBasic": null,
+          "TokenMaps": null
+        },
+        {
+          "Hash": "0bc413bbde7855ba8114596b6dc53ed8a5c10774",
+          "ChainId": 7,
+          "Name": "pETH",
+          "Property": 1,
+          "TokenBasicName": "ETH",
+          "TokenBasic": null,
+          "TokenMaps": null
+        },
+        {
+          "Hash": "44c86e6b6b613f3471ad87dbfaeb92b320b71a23",
+          "ChainId": 79,
+          "Name": "pEth",
+          "Property": 1,
+          "TokenBasicName": "ETH",
+          "TokenBasic": null,
+          "TokenMaps": null
+        }
+      ]
+    },
+    {
+      "Name": "NEO",
+      "Precision": 8,
+      "Price": "42.54468525",
+      "Ind": 1,
+      "Time": 1616371229,
+      "Property": 1,
+      "PriceMarkets": null,
+      "Tokens": [
+        {
+          "Hash": "17da3881ab2d050fea414c80b3fa8324d756f60e",
+          "ChainId": 5,
+          "Name": "nNeo",
+          "Property": 1,
+          "TokenBasicName": "NEO",
+          "TokenBasic": null,
+          "TokenMaps": null
+        },
+        {
+          "Hash": "6ef070cb10fc9f66d04a4c387928b268f55b9198",
+          "ChainId": 7,
+          "Name": "pNEO",
+          "Property": 1,
+          "TokenBasicName": "NEO",
+          "TokenBasic": null,
+          "TokenMaps": null
+        },
+        {
+          "Hash": "ce5b38c8b83428c5b4209a1866aa483de271bd6c",
+          "ChainId": 79,
+          "Name": "pNEO",
+          "Property": 1,
+          "TokenBasicName": "NEO",
+          "TokenBasic": null,
+          "TokenMaps": null
+        }
+      ]
+    },
+    {
+      "Name": "sUSD",
+      "Precision": 18,
+      "Price": "1.00503076",
+      "Ind": 1,
+      "Time": 1616371229,
+      "Property": 1,
+      "PriceMarkets": null,
+      "Tokens": [
+        {
+          "Hash": "21718c0fbd10900565fa57c76e1862cd3f6a4d8e",
+          "ChainId": 2,
+          "Name": "sUSD",
+          "Property": 1,
+          "TokenBasicName": "sUSD",
+          "TokenBasic": null,
+          "TokenMaps": null
+        },
+        {
+          "Hash": "83e906d9fa217d4210dc339133812054eb8d5629",
+          "ChainId": 7,
+          "Name": "pSUSD",
+          "Property": 1,
+          "TokenBasicName": "sUSD",
+          "TokenBasic": null,
+          "TokenMaps": null
+        },
+        {
+          "Hash": "fe9b30ed047bc43f1537140772f50969a29df5de",
+          "ChainId": 79,
+          "Name": "pSUSD",
+          "Property": 1,
+          "TokenBasicName": "sUSD",
+          "TokenBasic": null,
+          "TokenMaps": null
+        }
+      ]
+    },
+    {
+      "Name": "USDC",
+      "Precision": 6,
+      "Price": "1.00098911",
+      "Ind": 1,
+      "Time": 1616371229,
+      "Property": 1,
+      "PriceMarkets": null,
+      "Tokens": [
+        {
+          "Hash": "0d9c8723b343a8368bebe0b5e89273ff8d712e3c",
+          "ChainId": 2,
+          "Name": "USDC",
+          "Property": 1,
+          "TokenBasicName": "USDC",
+          "TokenBasic": null,
+          "TokenMaps": null
+        },
+        {
+          "Hash": "63b79d3c4d1f7cbefb80e4b0ab7e8d1545ba10c3",
+          "ChainId": 7,
+          "Name": "pUSDC",
+          "Property": 1,
+          "TokenBasicName": "USDC",
+          "TokenBasic": null,
+          "TokenMaps": null
+        },
+        {
+          "Hash": "ee8410b64aaed811d84c313b72e040cb09840b80",
+          "ChainId": 79,
+          "Name": "USDC",
+          "Property": 1,
+          "TokenBasicName": "USDC",
+          "TokenBasic": null,
+          "TokenMaps": null
+        }
+      ]
+    },
+    {
+      "Name": "USDT",
+      "Precision": 6,
+      "Price": "1.00128003",
+      "Ind": 1,
+      "Time": 1616371229,
+      "Property": 1,
+      "PriceMarkets": null,
+      "Tokens": [
+        {
+          "Hash": "23f5075740c2c99c569ffd0768c383a92d1a4ad7",
+          "ChainId": 79,
+          "Name": "USDT",
+          "Property": 1,
+          "TokenBasicName": "USDT",
+          "TokenBasic": null,
+          "TokenMaps": null
+        },
+        {
+          "Hash": "7698da475b3132f37e40de8c222d7d74d3a4172d",
+          "ChainId": 7,
+          "Name": "pUSDT",
+          "Property": 1,
+          "TokenBasicName": "USDT",
+          "TokenBasic": null,
+          "TokenMaps": null
+        },
+        {
+          "Hash": "ad3f96ae966ad60347f31845b7e4b333104c52fb",
+          "ChainId": 2,
+          "Name": "USDT",
+          "Property": 1,
+          "TokenBasicName": "USDT",
+          "TokenBasic": null,
+          "TokenMaps": null
+        }
+      ]
+    },
+    {
+      "Name": "ONG",
+      "Precision": 9,
+      "Price": "0.9",
+      "Ind": 1,
+      "Property": 1,
+      "Time": 1610884844,
+      "PriceMarkets": null,
+      "Tokens": [
+        {
+          "Hash": "42d9feF0Cbd9c3000CECe9764d99A4a6fE9E1B34",
+          "ChainId": 2,
+          "Name": "ONG",
+          "TokenBasicName": "ONG",
+          "TokenBasic": null,
+          "Property": 1,
+          "TokenMaps": null
+        },
+        {
+          "Hash": "0200000000000000000000000000000000000000",
+          "ChainId": 3,
+          "Name": "ONG",
+          "Property": 1,
+          "TokenBasicName": "ONG",
+          "TokenBasic": null,
+          "TokenMaps": null
+        }
+      ]
+    },
+    {
+      "Name": "ONTd",
+      "Precision": 9,
+      "Price": "1.3",
+      "Ind": 1,
+      "Property": 1,
+      "Time": 1610884844,
+      "PriceMarkets": null,
+      "Tokens": [
+        {
+          "Hash": "76130c293AA35bf7B3e5fED1E9aE1E5DF12C6A92",
+          "ChainId": 2,
+          "Name": "ONTd",
+          "Property": 1,
+          "TokenBasicName": "ONTd",
+          "TokenBasic": null,
+          "TokenMaps": null
+        },
+        {
+          "Hash": "869951e3397550e800d5faf579857cdb637a0051",
+          "ChainId": 3,
+          "Name": "ONTd",
+          "Property": 1,
+          "TokenBasicName": "ONTd",
+          "TokenBasic": null,
+          "TokenMaps": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ethereum neo</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-40.000000, -30.000000)" fill-rule="nonzero">
+            <g id="ethereum-neo" transform="translate(40.000000, 30.000000)">
+                <path d="M19.9960938,0 C8.953125,0 0,8.953125 0,19.9960938 C0,31.0390625 8.953125,39.9921875 19.9960938,39.9921875 C31.0390625,39.9921875 39.9921875,31.0390625 39.9921875,19.9960938 C39.9921875,8.953125 31.0429688,0 19.9960938,0 Z" id="路径" fill="#6C7AB7"></path>
+                <path d="M19.9414063,25.6601562 L12.5,21.265625 L19.9414063,31.7578125 L27.390625,21.265625 L19.9414063,25.6601562 Z M20.0546875,7.5 L12.609375,19.8515625 L20.0507812,24.25 L27.4921875,19.8554687 L20.0546875,7.5 Z" id="形状" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

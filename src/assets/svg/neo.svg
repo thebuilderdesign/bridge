@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>chain neo</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-100.000000, -30.000000)">
+            <g id="编组" transform="translate(100.000000, 30.000000)">
+                <circle id="椭圆形" fill="#00E599" cx="20" cy="20" r="20"></circle>
+                <g id="NEO" transform="translate(10.500000, 10.000000)" fill="#FFFFF0">
+                    <polygon id="Fill-7" points="0.315290386 3.53530175 0.315720628 16.6949972 9.18257582 19.7618063 9.18257582 6.49293729 18.7692257 3.08907219 10.0688741 0.0863852899"></polygon>
+                    <polygon id="Fill-10" points="9.98843931 6.97629947 9.98601214 14.1456297 18.8157492 17.2390104 18.8141787 3.78417302"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

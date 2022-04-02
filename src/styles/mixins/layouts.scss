@@ -1,0 +1,43 @@
+@mixin child-margin-h($size, $skip: 1) {
+  > :nth-child(n + #{$skip + 1}) {
+    margin-left: $size;
+  }
+}
+
+@mixin child-margin-v($size, $skip: 1) {
+  > :nth-child(n + #{$skip + 1}) {
+    margin-top: $size;
+  }
+}
+
+@mixin last-margin-h($size, $skip: 1) {
+  @include emphasize {
+    &:nth-child(n + #{$skip + 1}) {
+      margin-left: $size;
+    }
+  }
+}
+
+@mixin next-margin-h($size) {
+  @include emphasize {
+    & + * {
+      margin-left: $size;
+    }
+  }
+}
+
+@mixin last-margin-v($size, $skip: 1) {
+  @include emphasize {
+    &:nth-child(n + #{$skip + 1}) {
+      margin-top: $size;
+    }
+  }
+}
+
+@mixin next-margin-v($size) {
+  @include emphasize {
+    & + * {
+      margin-top: $size;
+    }
+  }
+}

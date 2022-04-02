@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="12px" viewBox="0 0 15 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Check-circle</title>
+    <defs>
+        <path d="M3.67318395,11 C3.64000833,11 3.60867581,10.9981957 3.57550019,10.9927827 C3.34695707,10.9621094 3.14790339,10.8303945 3.03363182,10.6355287 L0.0975899493,5.60690666 C-0.105149917,5.26047845 0.0183370927,4.82022594 0.372210313,4.62175144 C0.726083533,4.42327695 1.17579742,4.54416596 1.37853728,4.89059417 L3.83353275,9.09825347 L12.8831031,0.212009016 C13.1706251,-0.0694639048 13.6369268,-0.0712682184 13.9262919,0.210204702 C14.2138139,0.491677623 14.215657,0.948168963 13.928135,1.2314462 L4.22979703,10.7546134 L4.19477833,10.7888953 C4.05470351,10.9260231 3.86670836,11 3.67318395,11 Z" id="path-1"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="选择链" transform="translate(-1865.000000, -214.000000)">
+            <g id="Icon/Check-circle" transform="translate(1865.000000, 214.500000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#2AC3B6" fill-rule="nonzero" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,83 @@
+{
+  "name": "gorgon-bridge-fronted",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "cross-env VUE_APP_TARGET=testnet vue-cli-service serve",
+    "serve:mainnet": "cross-env VUE_APP_TARGET=mainnet vue-cli-service serve",
+    "build:testnet": "cross-env VUE_APP_TARGET=testnet vue-cli-service build",
+    "build": "cross-env VUE_APP_TARGET=mainnet vue-cli-service build",
+    "test": "vue-cli-service test:unit",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@cityofzion/neon-js": "^4.8.1",
+    "@ethersproject/bytes": "^5.0.6",
+    "@ont-dev/ontology-dapi": "^0.5.7",
+    "@starcoin/starcoin": "^1.9.0",
+    "@starcoin/stc-util": "^0.4.1",
+    "@walletconnect/web3-provider": "^1.4.1",
+    "axios": "^0.20.0",
+    "bignumber.js": "^9.0.0",
+    "bn.js": "^5.1.3",
+    "clipboard-copy": "^3.1.0",
+    "core-js": "^3.6.5",
+    "dayjs": "^1.9.4",
+    "delay": "^4.4.0",
+    "element-ui": "^2.4.5",
+    "js-base64": "^3.6.0",
+    "lodash": "^4.17.20",
+    "neo-dapi": "^2.0.4",
+    "normalize.css": "^8.0.1",
+    "number-to-bn": "^1.7.0",
+    "ontology-ts-sdk": "^1.1.19",
+    "promise-deferred": "^2.0.3",
+    "query-string": "^6.13.1",
+    "serializr": "^1.5.3",
+    "string-template": "^1.0.0",
+    "uuid": "^8.3.0",
+    "vee-validate": "^3.3.11",
+    "vue": "^2.6.11",
+    "vue-bem-cn": "^1.1.1",
+    "vue-i18n": "^8.17.3",
+    "vue-mq": "^1.0.1",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.4.0",
+    "walletlink": "^2.4.7",
+    "watson-scss": "^1.0.6",
+    "web3": "^1.2.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.0",
+    "@vue/cli-plugin-eslint": "^4.5.0",
+    "@vue/cli-plugin-router": "^4.5.0",
+    "@vue/cli-plugin-unit-jest": "^4.5.6",
+    "@vue/cli-plugin-vuex": "^4.5.0",
+    "@vue/cli-service": "^4.5.0",
+    "@vue/eslint-config-airbnb": "^5.0.2",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "@vue/test-utils": "^1.0.3",
+    "babel-eslint": "^10.1.0",
+    "cross-env": "^7.0.2",
+    "eslint": "^6.7.2",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-vue": "^6.2.2",
+    "lint-staged": "^9.5.0",
+    "sass": "^1.26.10",
+    "sass-loader": "^8.0.0",
+    "vue-cli-plugin-element": "^1.0.1",
+    "vue-cli-plugin-i18n": "^1.0.1",
+    "vue-template-compiler": "^2.6.11",
+    "webpack-cdn-plugin": "^3.3.1"
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{js,jsx,vue}": [
+      "vue-cli-service lint",
+      "git add"
+    ]
+  }
+}

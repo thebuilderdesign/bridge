@@ -1,0 +1,16 @@
+// set variables before import element-ui variables
+$--color-primary: #f936b4;
+
+$--border-color-base: rgba(#ffffff, 0.05);
+$--border-color-light: rgba(#ffffff, 0.04);
+$--border-color-lighter: rgba(#ffffff, 0.03);
+$--border-color-extra-light: rgba(#ffffff, 0.02);
+
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+
+// import element-ui variables
+@import '~element-ui/packages/theme-chalk/src/common/var.scss';
+
+// set variables after import element variables
+$--border-light: $--border-width-base $--border-style-base $--border-color-light;
+$--border-lighter: $--border-width-base $--border-style-base $--border-color-lighter;
