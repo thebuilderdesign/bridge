@@ -6,7 +6,7 @@ export default {
   ...element,
   common: {
     header: {
-      brandName: 'Gorgon DAO',
+      brandName: 'GorgonBridge',
     },
     wallets: {
       connectWallet: 'Connect Wallet',

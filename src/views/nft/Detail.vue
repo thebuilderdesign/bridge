@@ -7,7 +7,7 @@
   >
     <div class="card">
       <div class="title">{{ $t('home.form.title') }}</div>
-      <div class="fields" style="margin-top:40px">
+      <div class="fields" style="margin-top: 40px">
         <div class="field" v-if="nftData">
           <div class="select-nft-basic">
             <div class="image">
@@ -19,7 +19,7 @@
           </div>
         </div>
 
-        <div class="fields-row" style="margin-top:40px">
+        <div class="fields-row" style="margin-top: 40px">
           <div class="field">
             <div class="label">{{ $t('home.form.from') }}</div>
             <CButton class="select-chain">
@@ -40,7 +40,7 @@
                     {{ $t('home.form.chainName', { chainName: $t('home.form.from') }) }}
                   </span>
                 </template>
-                <img style="opacity:0" class="chevron-down" src="@/assets/svg/chevron-right.svg" />
+                <img style="opacity: 0" class="chevron-down" src="@/assets/svg/chevron-right.svg" />
               </div>
             </CButton>
             <div v-if="nftData" class="address">
@@ -200,7 +200,7 @@ export default {
 
 <style lang="scss" scoped>
 .s-button {
-  background: linear-gradient(225deg, #3ec7eb 0%, #282bdb 100%);
+  background: linear-gradient(225deg, #3ec7eb 0%, #50372e 100%);
 }
 .content {
   display: flex;

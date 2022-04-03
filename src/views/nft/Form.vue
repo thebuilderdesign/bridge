@@ -31,7 +31,7 @@
               </span>
               <img
                 v-if="itemHash === item.Hash"
-                style="color:#fff"
+                style="color: #fff"
                 src="@/assets/svg/check-w.svg"
               />
             </div>
@@ -265,11 +265,12 @@ export default {
       return this.$store.getters.getItems;
     },
     chains() {
-      return this.$store.getters.chains.filter(chain => chain.id !== ChainId.Poly);
+      return this.$store.getters.chains.filter((chain) => chain.id !== ChainId.Poly);
     },
     nftChains() {
       return this.$store.getters.chains.filter(
-        chain => chain.id !== ChainId.Poly && chain.id !== ChainId.Ont && chain.id !== ChainId.Neo,
+        (chain) =>
+          chain.id !== ChainId.Poly && chain.id !== ChainId.Ont && chain.id !== ChainId.Neo,
       );
     },
     fromChains() {
@@ -277,8 +278,8 @@ export default {
         this.tokenBasic &&
         this.$store.getters
           .getTokensByTokenBasicName(this.tokenBasic.name)
-          .map(token => this.$store.getters.getChain(token.chainId))
-          .filter(chain => chain)
+          .map((token) => this.$store.getters.getChain(token.chainId))
+          .filter((chain) => chain)
       );
     },
     fromChain() {
@@ -315,8 +316,8 @@ export default {
       return (
         this.assetMap &&
         this.assetMap
-          .map(asset => this.$store.getters.getChain(asset.ChainId))
-          .filter(chain => chain)
+          .map((asset) => this.$store.getters.getChain(asset.ChainId))
+          .filter((chain) => chain)
       );
     },
     toChain() {
@@ -582,7 +583,7 @@ export default {
       });
       const { fromChainId } = this;
       this.fromChainId = this.toChainId;
-      if (this.toChains && this.toChains.find(chain => chain.id === fromChainId)) {
+      if (this.toChains && this.toChains.find((chain) => chain.id === fromChainId)) {
         this.toChainId = fromChainId;
       } else {
         this.toChainId = null;
@@ -902,7 +903,7 @@ export default {
   text-align: center;
   width: 160px;
   height: 60px;
-  background: linear-gradient(225deg, #3ec7eb 0%, #282bdb 100%);
+  background: linear-gradient(225deg, #3ec7eb 0%, #50372e 100%);
   border-radius: 4px;
   font-size: 18px;
   font-family: Avenir-Medium, Avenir;

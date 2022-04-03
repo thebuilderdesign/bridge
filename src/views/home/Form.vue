@@ -721,7 +721,7 @@ export default {
   border-radius: 7px;
 }
 .el-checkbox__input.is-checked .el-checkbox__inner {
-  background-color: #282bdb !important;
+  background-color: #50372e !important;
   border-color: rgba(0, 0, 0, 0) !important;
   border-radius: 7px;
 }
