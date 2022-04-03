@@ -11,17 +11,15 @@ import {
 } from '@/utils/convertors';
 import {
   WalletName,
-  ChainId,
   SingleTransactionStatus,
   NetworkChainIdMaps,
   EthNetworkChainIdMaps,
 } from '@/utils/enums';
 import { WalletError } from '@/utils/errors';
-import { TARGET_MAINNET } from '@/utils/env';
 import { tryToConvertAddressToHex } from '.';
 
 const APP_NAME = 'Gorgon Bridge';
-const APP_LOGO_URL = src = "@/assets/png/logo_white.png";
+const APP_LOGO_URL = '/img/logo_white.png';
 const DEFAULT_ETH_JSONRPC_URL = 'https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161';
 const DEFAULT_CHAIN_ID = 1;
 // Initialize WalletLink
