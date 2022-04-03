@@ -350,7 +350,7 @@ export default {
   flex-direction: column;
   width: 500px;
   height: 100vh;
-  background: #171f31;
+  background: #7d5040;
   box-shadow: 0px 2px 18px 7px rgba(#000000, 0.1);
 }
 

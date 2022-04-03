@@ -6,19 +6,15 @@ export default {
   ...element,
   common: {
     header: {
-      brandName: 'PolyBridge',
+      brandName: 'Gorgon DAO',
     },
     wallets: {
       connectWallet: 'Connect Wallet',
     },
     networks: {
-      mainnet: 'MainNet',
-      testnet: 'TestNet',
+      mainnet: 'MainNet'
     },
     menu: {
-      audit: 'Audit Report',
-      token: 'Token Asset',
-      nft: 'NFT Asset',
     },
     connectWallet: {
       chainName: '{chainName} Wallet',
@@ -26,7 +22,7 @@ export default {
       connectWallet: 'Connect {walletName}',
     },
     footer: {
-      copyright: '© 2021 Polynetwork. All rights reserved.',
+      copyright: 'Powered by Gorgon | All rights reserved.',
     },
   },
   home: {

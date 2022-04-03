@@ -1,7 +1,7 @@
 <template>
   <div class="header">
     <CLink class="brand" :to="{ name: 'home' }">
-      <img class="brand-logo" src="@/assets/svg/logo.svg" />
+      <img class="brand-logo" src="@/assets/png/logo_white.png" />
       <span class="brand-name">{{ $t('common.header.brandName') }}</span>
     </CLink>
     <CFlexSpan />
@@ -9,7 +9,7 @@
     <Wallets class="wallet" />
     <Networks class="network" />
 
-    <div class="header-mobile" style="display:none">
+    <div class="header-mobile" style="display: none">
       <Wallets />
       <!-- <el-dropdown>
         <i class="el-icon-setting" style="font-size:30px"></i>

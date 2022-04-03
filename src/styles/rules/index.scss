@@ -4,14 +4,11 @@
 
 html {
   --color-primary: #2fd8ca;
-
-  --color-text-primary: #ffffff;
-  --color-text-primary-inverse: #091225;
-
-  --background-color-base: #091225;
-  --background-color-base-inverse: #ffffff;
-
-  --background-image: linear-gradient(327deg, #{rgba(#3ec7eb, 0.5)} 0, #{rgba(#3ec7eb, 0)} 100%);
+  --color-text-primary: #fff;
+  --color-text-primary-inverse: #7d5040;
+  --background-color-base: #7d5040;
+  --background-color-base-inverse: fce2b8;
+  --background-image: linear-gradient(327deg,rgb(235 182 62 / 50%),rgba(62,199,235,0));
 }
 
 body {
